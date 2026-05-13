@@ -1,2 +1,2 @@
 one
-new line
+1
